@@ -1,2 +1,2 @@
 # hello-word
-this is from cli
+Let's code something bi(g,t)!
